@@ -1,12 +1,20 @@
 {
     "merchant": {
-        "item": "888 Pan Asian",
+        "name": "888 Pan Asian",
         "logo": "logo.png",
-        "telephone": "(512) 448-4722",
-        "website": "www.888panasian.com",
-        "address": "2400 E. Oltorf St Austin, TX 78741",
-        "googleMap": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13789.962162064581!2d-97.7418930946289!3d30.22308489221712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b46814d7eb47%3A0x79397bd1e893317!2s888%20Pan%20Asian%20Restaurant!5e0!3m2!1sen!2sus!4v1679319809721!5m2!1sen!2sus",
-        "hours": [
+        "contact": {
+            "telephone": "(512) 448-4722",
+            "email": "888panasianres@gmail.com",
+            "website": "www.888panasian.com"
+        },
+        "location": {
+            "address": "2400 E. Oltorf St",
+            "city": "Austin",
+            "state": "TX",
+            "zipCode": "78741",
+            "googleMaps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13789.962162064581!2d-97.7418930946289!3d30.22308489221712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644b46814d7eb47%3A0x79397bd1e893317!2s888%20Pan%20Asian%20Restaurant!5e0!3m2!1sen!2sus!4v1679319809721!5m2!1sen!2sus"
+        },
+        "businessHours": [
             {
                 "day": "Monday",
                 "hours": "12PM - 11PM"
@@ -52,6 +60,20 @@
             {
                 "item": "American Express",
                 "image": "americanexpress.png"
+            }
+        ],
+        "aboutRestaurant": {
+            "paragraph1": "We serve the most popular authentic Vietnamese, Thai and Chinese food.",
+            "paragraph2": "You can find ur menu with all things Asian from Pho, pad thai, to curry dishes."
+        },
+        "customerReviews": [
+            {
+                "review": "Great Asain food at a good price. Huge menu, friendly fast staff. Food is absolutely delicious. Hands down best Salt and Pepper dishes I've tried anywhere! Live at least an hour away now and I will still travel to eat here. Definitely give this place a try. Everyone I've ever eaten here with has become a fan!",
+                "source": "Erica Crespin"
+            },
+            {
+                "review": "Food here is delicious! Huge portions for VERY affordable prices in comparison to other restaurants. Even during busy days you can expect a better than average wait. Plenty of room for large parties. Great experience over all👍",
+                "source": "Dreamer Money"
             }
         ]
     },
